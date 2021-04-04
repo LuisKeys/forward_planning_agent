@@ -1,0 +1,8 @@
+
+Solving Air Cargo Problem 3 using astar_search with h_pg_levelsum...
+
+# Actions   Expansions   Goal Tests   New Nodes
+    88         369         371         3403   
+
+Plan length: 12  Time elapsed in seconds: 179.9298786
+
